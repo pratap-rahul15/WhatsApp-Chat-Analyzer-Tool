@@ -1,0 +1,17 @@
+
+# === Python Backend ===
+backend/__pycache__/
+backend/venv/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+*.log
+instance/
+*.db
+*.pkl
+
+# === Node (React Frontend) ===
+frontend/node_modules/
+
+# === Vite Cache ===
+frontend/.vite/
